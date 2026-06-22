@@ -1,5 +1,7 @@
 # 🌸 Petal — Your Daily Tasks
 
+<img width="1920" height="1020" alt="To-do" src="https://github.com/user-attachments/assets/e34dead5-0cfb-4a0f-bde6-5ec9156abcf3" />
+
 A single-page task manager with a warm, hand-arranged aesthetic. Built with **Vite + React 18**, **Redux Toolkit**, **Axios**, and **Bootstrap 5**.
 
 ## Palette
